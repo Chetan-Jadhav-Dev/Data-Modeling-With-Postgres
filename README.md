@@ -40,7 +40,6 @@ On why to use a relational database for this case:
 - Ability to use SQL that is more than enough for this kind of analysis
 - We need to use JOINS for this scenario
 
-![SparkStar Schema](SparkStarSchema.png)
 
 ## Project template
 
